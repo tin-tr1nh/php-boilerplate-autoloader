@@ -1,0 +1,7 @@
+{
+    "name": "php-boilerplate",
+    "description": "Small project that use composer for autoloader",
+    "autoload": {
+        "psr-4": {"PHPImageWorkshop\\": "lib/ImageWorkshop/src/PHPImageWorkshop"}
+    }
+}
